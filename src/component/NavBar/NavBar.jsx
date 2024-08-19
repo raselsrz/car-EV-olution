@@ -6,10 +6,10 @@ const NavBar = () => {
         <div className="nav-logo">EV-olution</div>
         <ul className="nav-menu">
             
-        <li >Home</li>
-        <li>Explore</li>
-        <li>About</li>
-        <li className='nav-contact'>Contact</li>
+        <li> <a href="#">Home</a> </li>
+        <li><a href="#">Explore</a> </li>
+        <li><a href="#">About</a> </li>
+        <li className='nav-contact'> <a href="#">Contact</a> </li>
         
         </ul>
         </div>
